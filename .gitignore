@@ -1,0 +1,15 @@
+# Database credentials
+config/db.php
+
+# Database backups
+*.sql
+*.sql.zip
+*.bak
+
+# Mac system files
+.DS_Store
+
+# Temporary files
+*.log
+README_FIRST.txt
+BRANDING_README.txt
